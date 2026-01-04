@@ -26,7 +26,6 @@ a foundation for scalable digital platforms.
 - 🧩 Common Module
   - Shared security configuration
   - Global exception handling
-  - Utilities and helpers
   - DTOs and constants
 
 ## 🏗️ Architecture
